@@ -1,5 +1,5 @@
 var balloon,balloonImage1,balloonImage2;
-var database;
+var database
 var height;
 
 function preload(){
